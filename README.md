@@ -14,7 +14,7 @@
 Via Composer
 
 ``` bash
-$ composer require apichef/laravel-obfuscate
+$ composer require inthink-hans/laravel-obfuscate
 ```
 
 | Laravel | Minimum Versions |
@@ -24,6 +24,7 @@ $ composer require apichef/laravel-obfuscate
 | 7.x     |     `^2.0.0`     |
 | 8.x     |     `^2.0.0`     |
 | 9.x     |     `^3.0.0`     |
+| 10.x    |     `^3.1.0`     |
 
 ## Usage
 
